@@ -1,1 +1,1 @@
-![image](picture url)
+![image](https://github.com/blryli/images/blob/master/screenshot/1.jpg)
